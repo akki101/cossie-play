@@ -115,7 +115,7 @@
   border-radius: 5px;
   width: auto;
   background: #36b0b6;
-  position:absolute;
+  position:static;
   margin:5px;
   right:5px;
   left:5px;
@@ -123,4 +123,17 @@
 }
  #footer div{
 	  align: center;
+  }
+  
+  #box1{
+	  width:50%;
+	  height: auto;
+	  float:left;
+	 
+  }
+  #box2{
+	  width:50%;
+	  height: auto;
+	  float:left;
+	  
   }
